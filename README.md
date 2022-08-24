@@ -21,3 +21,6 @@ To start go to the command line and type "node app.js"
 # Test 
 To test to make sure you have everything you need put "npm run test" in your command line.
 If worked correctly the user should get 17 passes and 0 fails.
+# Github
+https://github.com/asmitt8373/Team-Profile-Manager
+if you have any questions please send an email to austinsmittle8373@gmail.com
